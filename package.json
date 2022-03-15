@@ -17,7 +17,7 @@
     "url": "https://github.com/arthurdenner/snyk-devDeps-test/issues"
   },
   "homepage": "https://github.com/arthurdenner/snyk-devDeps-test#readme",
-  "dependencies": {
+  "devDependencies": {
     "nanoid": "^3.1.20"
   }
 }
