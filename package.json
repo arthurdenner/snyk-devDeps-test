@@ -1,0 +1,23 @@
+{
+  "name": "snyk-devdeps-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurdenner/snyk-devDeps-test.git"
+  },
+  "keywords": [],
+  "author": "Arthur Denner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurdenner/snyk-devDeps-test/issues"
+  },
+  "homepage": "https://github.com/arthurdenner/snyk-devDeps-test#readme",
+  "dependencies": {
+    "nanoid": "^3.1.20"
+  }
+}
